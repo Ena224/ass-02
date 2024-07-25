@@ -6,3 +6,65 @@
     font-variation-settings:
     "width" 100;
 }
+*{
+    margin:0;
+    padding:0;
+}
+  
+/* nav section */
+.color
+{
+    background-color: black;
+}
+.italic
+{
+   color: #E6533C;
+   font-style: italic;
+   font-size:40px;
+}
+.red_btn
+{
+    color: white;
+    background-color: #E6533C;
+}
+.nav1{
+ 
+   margin-top:50px;
+  display: flex;
+ margin-left:70px;
+ margin-right:70px;
+justify-content: space-between; 
+
+}
+nav ul li {
+    list-style: none;
+}
+nav ul a{
+    text-decoration: none;
+    color:white;
+}
+.mother-ul
+{  
+   border:2px solid rgb(50, 50, 50);
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   gap:50px;
+   border-radius:40px;
+   position: static;
+   width: 465px;
+   height: 45px;
+
+}
+.red-box{
+width: 70px;
+height: 30px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 20px 8px 20px; 
+border-radius: 45px;
+background: rgb(230, 83, 60);
+}
+/* hero -section */
