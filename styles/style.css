@@ -245,6 +245,7 @@ text-align: left;
         margin-left: 0; 
         max-width: 100%; 
     
+
     }
     .join-btn{
     height:50px;
@@ -286,7 +287,7 @@ text-align: left;
 position: absolute;
 width: 160.91px;
 height: 76.09px;
-left: 190.2px;
+left: 182.2px;
 top: 576.6px;
 box-sizing: border-box;
 border: 0.76px solid rgba(255, 255, 255, 0.1);
@@ -309,9 +310,10 @@ background: rgba(255, 255, 255, 0.1);
    
   border: none;
   gap:5px;
-    margin-left:170px;
+ margin-left:170px;
     
 }
+
 
 .mother-ul li {
    
@@ -321,7 +323,7 @@ background: rgba(255, 255, 255, 0.1);
 }
 .menu-icon {
     display:block;
-    margin-left:300px;
+    margin-left:250px;
 }
 #video-badge-2
 {
