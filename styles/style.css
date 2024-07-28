@@ -473,6 +473,8 @@ background: rgba(255, 255, 255, 0.1);
 }
 .page-03 p{
     margin-left:10px;
+    width:400px;
+    line-height: 27px;
 }
 .page-03 h1{
     margin-top: 40px;
@@ -484,7 +486,7 @@ background: rgba(255, 255, 255, 0.1);
 }
 .page-03 .join-btn-2{
     margin-left:10px;
-    width:300px;
+    width:350px;
 }
 
 .page-03 .div-1
@@ -496,6 +498,9 @@ background: rgba(255, 255, 255, 0.1);
 {
    margin-top:0.1px;
    height:300px;
-   width:320px;
+   width:300px;
+}
+.page-03 img{
+    width:100%;
 }
 }
