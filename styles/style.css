@@ -210,8 +210,58 @@ text-align: left;
     text-align: center;
 }
 /* <!-- ---------------page-02------------------------------- --> */
-
-
+.h1-style{
+    margin-top: 40px;
+    font-size: 48px;
+     font-weight: 900;
+    /* margin-left:70px; */
+    text-align: center;
+}
+.dark-p {
+    text-align: center;
+    
+    margin-top:30px; 
+    color:rgb(160, 150, 150);
+    opacity:0.9;
+    padding-bottom:40px;
+    opacity:0.6;
+    font-weight:500;
+}.circular-image {
+    width: 200px;  /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
+    border-radius: 50%;
+    object-fit: cover;
+}
+.container-1-page-2{
+    margin-bottom:20px;
+   
+    display: flex;
+    flex-direction: row;
+    margin-bottom:30px;
+ 
+}
+.card-1
+{
+    width: 500px;
+    height: 504px;
+}
+.container-1-page-2 img{
+    margin-left: 70px;
+}
+.container-1-page-2 h3{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+   margin-top: 30px;
+    margin-right:20px;
+    margin-bottom: 10px;
+}
+.container-1-page-2 p{
+    color: rgba(255, 255, 255, 0.5);
+    margin-right:20px;
+    text-align: center;
+    align-items: center;
+}
 /* media query for phone*/
 @media screen and (max-width:576px){
     .nav1,
@@ -287,7 +337,7 @@ text-align: left;
 position: absolute;
 width: 160.91px;
 height: 76.09px;
-left: 182.2px;
+left: 180px;
 top: 576.6px;
 box-sizing: border-box;
 border: 0.76px solid rgba(255, 255, 255, 0.1);
@@ -340,6 +390,27 @@ background: rgba(255, 255, 255, 0.1);
  backdrop-filter: blur(20px);
  background: rgba(48, 48, 48, 0.54);
 }
-
-
+/*page-02  */
+.container-1-page-2
+{
+    flex-direction: column;
+}
+.container-1-page-2 img{
+    margin-left:100px;
+}
+.card-1
+{
+    width: 400px;
+    height: 350px;
+}
+.container-1-page-2 h3 
+{
+    margin-top: 20px;
+}
+.container-1-page-2 p{
+   margin-left:20px;
+}
+.dark-p{
+    margin-left:20px;
+}
 }
