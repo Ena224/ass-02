@@ -222,7 +222,7 @@ text-align: left;
     {
         flex-direction:column;
     }
-    *
+    
    
     .page-1{
         background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
@@ -242,19 +242,19 @@ text-align: left;
        
         flex-direction: column;
         padding-left:0;
-        margin-left: 0;
+        margin-left: 0; 
         max-width: 100%; 
     
     }
     .join-btn{
     height:50px;
-    width:170px;
+    width:120px;
     margin-left:15px;
 }
 .download-btn{
  padding: 8px 20px 8px 20px; 
  height:50px;
- width:180px;
+ width:150px;
  /* margin-left:20px; */
 }
 .hero p
@@ -262,7 +262,7 @@ text-align: left;
    
 
   width: 275px;
-    height: 98px;
+    height: 90px;
     margin-left:15px;
     padding-bottom:15px;
     display: flex;
@@ -286,7 +286,7 @@ text-align: left;
 position: absolute;
 width: 160.91px;
 height: 76.09px;
-left: 195.2px;
+left: 190.2px;
 top: 576.6px;
 box-sizing: border-box;
 border: 0.76px solid rgba(255, 255, 255, 0.1);
