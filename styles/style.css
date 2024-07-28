@@ -151,8 +151,7 @@ cursor: pointer;
 #video-badge
 {
    color: white;
-   margin-bottom:100px;
-  
+   margin-bottom:100px; 
 position: absolute;
 width: 193px;
 height: 98px;
@@ -164,6 +163,22 @@ border-radius: 12px;
 backdrop-filter: blur(20px);
 background: rgba(255, 255, 255, 0.1);
 }
+#video-badge-2
+{
+    color: white;
+    margin-bottom:100px; 
+ position: absolute;
+ width: 193px;
+ height: 98px;
+ left: 940px;
+ top: 500px;
+ box-sizing: border-box;
+ border: 1px solid rgba(255, 255, 255, 0.1);
+ border-radius: 12px;
+ backdrop-filter: blur(20px);
+ background: rgba(48, 48, 48, 0.54);
+}
+
 #number
 {
  font-size:40px;
@@ -174,11 +189,29 @@ font-weight: 900;
 line-height: 40px;
 text-align: left;
 }
+.menu-icon
+{
+    display: none;
+}
 .free{
     cursor: pointer;
     opacity:0.6;
     font-size:13px;
 }
+/*  */
+#menu-toggle {
+    display: none;
+}
+
+#menu-toggle:checked + .menu-icon + .mother-ul {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+}
+/* <!-- ---------------page-02------------------------------- --> */
+
+
 /* media query for phone*/
 @media screen and (max-width:576px){
     .nav1,
@@ -192,11 +225,7 @@ text-align: left;
     .page-1{
         background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
     }
-   .mother-ul{
-        display:none;
-       
-        
-    }
+ 
     .nav1{
         padding-top:50px;
         margin-left:20px;
@@ -264,8 +293,49 @@ border-radius: 9.07px;
 backdrop-filter: blur(15.12px);
 background: rgba(255, 255, 255, 0.1);
 }
+
 #number
 {
     font-size:40px;
 }
+
+/*  */
+.mother-ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+   
+  border: none;
+  gap:5px;
+    margin-left:170px;
+    
+}
+
+.mother-ul li {
+   
+    display: flex;
+   
+ 
+}
+.menu-icon {
+    display:block;
+    margin-left:300px;
+}
+#video-badge-2
+{
+    color: white;
+    margin-bottom:100px; 
+ position: absolute;
+ width: 150px;
+ height: 80px;
+ left: 20px;
+ top: 760px;
+ box-sizing: border-box;
+ border: 1px solid rgba(255, 255, 255, 0.1);
+ border-radius: 12px;
+ backdrop-filter: blur(20px);
+ background: rgba(48, 48, 48, 0.54);
+}
+
+
 }
