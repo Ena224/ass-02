@@ -223,10 +223,7 @@ text-align: left;
         flex-direction:column;
     }
     *
-    {
-        margin: 0;
-        padding: 0;
-    }
+   
     .page-1{
         background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
     }
@@ -258,7 +255,7 @@ text-align: left;
  padding: 8px 20px 8px 20px; 
  height:50px;
  width:180px;
- margin-left:20px;
+ /* margin-left:20px; */
 }
 .hero p
 {
@@ -289,7 +286,7 @@ text-align: left;
 position: absolute;
 width: 160.91px;
 height: 76.09px;
-left: 214.2px;
+left: 195.2px;
 top: 576.6px;
 box-sizing: border-box;
 border: 0.76px solid rgba(255, 255, 255, 0.1);
