@@ -208,20 +208,23 @@ text-align: left;
     }
     .div-2 img
     {
-
+       
         flex-direction: column;
         padding-left:0;
         margin-left: 0;
+        max-width: 100%; 
+    
     }
     .join-btn{
     height:50px;
-    width:120px;
+    width:170px;
     margin-left:15px;
 }
 .download-btn{
  padding: 8px 20px 8px 20px; 
  height:50px;
- width:120px;
+ width:180px;
+ margin-left:25px;
 }
 .hero p
 {
@@ -250,8 +253,8 @@ text-align: left;
 }
 #video-badge{
 position: absolute;
-width: 145.91px;
-height: 74.09px;
+width: 160.91px;
+height: 76.09px;
 left: 214.2px;
 top: 576.6px;
 box-sizing: border-box;
@@ -260,5 +263,9 @@ border-radius: 9.07px;
 
 backdrop-filter: blur(15.12px);
 background: rgba(255, 255, 255, 0.1);
+}
+#number
+{
+    font-size:40px;
 }
 }
