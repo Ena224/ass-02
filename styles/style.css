@@ -222,6 +222,11 @@ text-align: left;
     {
         flex-direction:column;
     }
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
     .page-1{
         background: linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 100%);
     }
