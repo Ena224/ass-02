@@ -400,16 +400,16 @@ background: rgba(255, 255, 255, 0.1);
 }
 .card-1
 {
-    width: 400px;
+    width: 350px;
     height: 350px;
 }
 .container-1-page-2 h3 
 {
     margin-top: 20px;
 }
-.container-1-page-2 p{
-   margin-left:10px;
-}
+/* .container-1-page-2 p{
+   margin-left:5px;
+} */
 .dark-p{
     margin-left:20px;
 }
