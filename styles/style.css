@@ -456,14 +456,15 @@ background: rgba(255, 255, 255, 0.1);
 {
     width: 350px;
     height: 350px;
+    margin-left:20px;
 }
 .container-1-page-2 h3 
 {
     margin-top: 20px;
 }
-/* .container-1-page-2 p{
-   margin-left:5px;
-} */
+ /* .container-1-page-2 p{
+   margin-left:10px;
+}  */
 .dark-p{
     margin-left:20px;
 }
@@ -475,7 +476,7 @@ background: rgba(255, 255, 255, 0.1);
     margin-left:20px;
 }
 .page-03 p{
-    margin-left:10px;
+    margin-left:15px;
     width:320px;
     line-height: 27px;
 }
@@ -492,6 +493,10 @@ background: rgba(255, 255, 255, 0.1);
     width:300px;
     align-items:center;
     margin-bottom:18px;
+}
+.sec-2-div{
+    width: auto;
+    height: auto;
 }
 
 .page-03 .div-1
