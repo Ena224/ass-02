@@ -219,6 +219,7 @@ text-align: left;
 }
 .dark-p {
     text-align: center;
+    margin-left: auto;
     
     margin-top:30px; 
     color:rgb(160, 150, 150);
@@ -414,7 +415,7 @@ background: rgba(255, 255, 255, 0.1);
    
   border: none;
   gap:5px;
- margin-left:170px;
+  margin-left:100px; 
     
 }
 
@@ -427,7 +428,7 @@ background: rgba(255, 255, 255, 0.1);
 }
 .menu-icon {
     display:block;
-    margin-left:250px;
+    margin-left:350px;
 }
 #video-badge-2
 {
@@ -466,7 +467,8 @@ background: rgba(255, 255, 255, 0.1);
    margin-left:10px;
 }  */
 .dark-p{
-    margin-left:20px;
+    /* margin-left:20px; */
+    margin:auto;
 }
 /* page-03 */
 .page-03{
