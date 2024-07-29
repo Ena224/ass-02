@@ -267,6 +267,7 @@ text-align: left;
     background: rgb(34, 34, 34);
     display: flex;
     flex-direction: row;
+ 
 }
 .page-03 .div-1
 {
@@ -334,6 +335,7 @@ cursor: pointer;
     .nav1{
         padding-top:50px;
         margin-left:20px;
+        
     }
     .hero h1{
        
@@ -342,13 +344,12 @@ cursor: pointer;
     }
     .div-2 img
     {
-       
         flex-direction: column;
         padding-left:0;
-        margin-left: 0; 
-        max-width: 100%; 
-    
-
+        margin-left:0; 
+        max-width:100%;
+        padding-right:0;
+        margin-left: 0;
     }
     .join-btn{
     height:50px;
@@ -469,11 +470,13 @@ background: rgba(255, 255, 255, 0.1);
 /* page-03 */
 .page-03{
     border-radius:20px;
-    
+    width: 360px;
+    height: 650px;
+    margin-left:20px;
 }
 .page-03 p{
     margin-left:10px;
-    width:400px;
+    width:320px;
     line-height: 27px;
 }
 .page-03 h1{
@@ -485,14 +488,16 @@ background: rgba(255, 255, 255, 0.1);
   
 }
 .page-03 .join-btn-2{
-    margin-left:10px;
-    width:350px;
+ margin-left:10px; 
+    width:300px;
+    align-items:center;
+    margin-bottom:18px;
 }
 
 .page-03 .div-1
 {
     height:400px;
-    width: 400px;
+    width: 250px;
 }
 .page-03 .div-2
 {
@@ -502,5 +507,7 @@ background: rgba(255, 255, 255, 0.1);
 }
 .page-03 img{
     width:100%;
+    margin-left:20px;
+    border-radius:10px;
 }
 }
