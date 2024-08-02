@@ -254,7 +254,7 @@ text-align: left;
     display: flex;
     flex-direction: column;
    margin-top: 30px;
-    margin-right:20px;
+    /* margin-right:20px; */
     margin-bottom: 10px;
 }
 .container-1-page-2 p{
@@ -428,7 +428,7 @@ background: rgba(255, 255, 255, 0.1);
 }
 .menu-icon {
     display:block;
-    margin-left:350px;
+    margin-left:230px;
 }
 #video-badge-2
 {
@@ -449,6 +449,8 @@ background: rgba(255, 255, 255, 0.1);
 .container-1-page-2
 {
     flex-direction: column;
+    /* margin-left:15px; */
+
 }
 .container-1-page-2 img{
     margin-left:80px;
@@ -462,13 +464,15 @@ background: rgba(255, 255, 255, 0.1);
 .container-1-page-2 h3 
 {
     margin-top: 20px;
+    
 }
  /* .container-1-page-2 p{
    margin-left:10px;
 }  */
 .dark-p{
     /* margin-left:20px; */
-    margin:auto;
+    /* margin:auto; */
+    width:100;
 }
 /* page-03 */
 .page-03{
@@ -476,6 +480,7 @@ background: rgba(255, 255, 255, 0.1);
     width: 360px;
     height: 650px;
     margin-left:20px;
+ 
 }
 .page-03 p{
     margin-left:15px;
@@ -497,8 +502,16 @@ background: rgba(255, 255, 255, 0.1);
     margin-bottom:18px;
 }
 .sec-2-div{
-    width: auto;
-    height: auto;
+    
+   
+width: 370px;
+height: 275px;
+left:40px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
 }
 
 .page-03 .div-1
