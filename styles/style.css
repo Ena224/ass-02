@@ -304,6 +304,7 @@ text-align: left;
     height:500px;
     width: 500px;
     margin-top:40px;
+    margin-left:500px;
 }
 .page-03 img{
     border-radius:18px;
@@ -582,7 +583,6 @@ background: rgba(255, 255, 255, 0.1);
      font-weight: 900;
     margin-left:10px; 
     letter-spacing:  0.5;
-  
 }
 .page-03 .join-btn-2{
  margin-left:10px; 
@@ -611,6 +611,7 @@ padding: 0px;
    margin-top:0.1px;
    height:300px;
    width:300px;
+   margin-left:20px;
 }
 .page-03 img{
     width:100%;
