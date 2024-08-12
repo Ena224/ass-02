@@ -409,6 +409,114 @@ background: rgba(255, 255, 255, 0.1);
 {
     width:454px;
 }
+/*----------------------------- page-06----------------------- */
+.page-06 img{
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px;
+background: rgba(0, 0, 0, 0.2);
+
+}
+.page-06 
+{
+  
+width: 1000px;
+height: 590px;
+gap:10px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items:flex-start;
+padding: 20px;
+margin-left:230px;
+border-radius: 19px;
+background: rgba(255, 255, 255, 0.1);
+opacity:0.8;
+}
+.img-div-1
+{
+    background-image: url(../images/trainer1.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+.img-div-2
+{
+    background-image: url(../images/trainer2.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+.img-div-3
+{
+    background-image: url(../images/trainer3.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+.img-div-4
+{
+    background-image: url(../images/lala.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+.img-div-5
+{
+    background-image: url(../images/trainer5.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+.img-div-6
+{
+    background-image: url(../images/trainer6.png);
+   background-size: cover;
+    background-repeat: no-repeat;
+    width: 326.67px;
+    height: 272px;
+    border-radius: 18px; 
+}
+
+.text
+{
+    position: absolute;
+    margin-left:20px;
+   margin-top:233px;
+    color: white;
+    font-size: 11px;
+}
+.text h1{
+    font-weight:800;
+}
+.text p
+{
+    color: rgb(181, 178, 178);
+}
+.p-6-d-1
+{
+    display: flex;
+    flex-direction: row;
+    gap:13px;
+}
+.p-6-d-2
+{
+    display: flex;
+    flex-direction:row;
+    gap:13px;
+}
+
+/* ____________________________________________________________________________________________________________________________________ */
 /* media query for phone*/
 @media screen and (max-width:576px){
     .nav1,
