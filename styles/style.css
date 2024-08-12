@@ -785,5 +785,46 @@ top: 334px;
 {
   width:225px;
 }
+/* ---------------------------------page--06----------------------------------------- */
+ .page-06-div 
+{
+    margin-top:900px;
+    margin-right:10px;
+} 
+.page-06-div p {
+    width:370px;
+}
 
+.page-06 
+{
+ display: flex;
+ flex-direction:column;
+ margin-left:20px;
+} 
+.p-6-d-1
+{ 
+    /* margin-top:1020px; */
+    display: flex;
+    flex-direction: column;
+    margin-left:0px;
+}
+.p-6-d-2
+{
+    display: flex;
+    flex-direction: column;
+}
+.page-06
+{
+    /* Frame 45 */
+position: static;
+width: 340px;
+height: 1700px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+
+
+}
 }
