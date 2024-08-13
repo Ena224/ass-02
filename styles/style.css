@@ -676,7 +676,7 @@ background: rgba(255, 255, 255, 0.1);
     border-radius:20px;
     width: 330px;
     height: 650px;
-    
+    margin-left:13px;
     /* margin-left:20px; */
  
 }
@@ -829,7 +829,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 padding-left:0;
-margin-left:13px;
+margin-left:17px;
 
 }
 }
