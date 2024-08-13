@@ -699,7 +699,7 @@ background: rgba(255, 255, 255, 0.1);
     margin-bottom:18px;
 }
 .sec-2-div{
-width: 340px;
+width: 330px;
 height: 275px;
 left:25px;
 display: flex;
@@ -767,14 +767,16 @@ align-items: center;
 }
 .page-05 caption
 {
-    width:400px;
+    /* width:400px; */
+    width:330px;
    
 }
 .page-05 .div-2
 {
     margin-top: 50px;
 position: absolute;
-width: 354px;
+/* width: 354px; */
+width:330px;
 height: 395px;
 left:20px;
 top: 334px; 
@@ -792,7 +794,8 @@ top: 334px;
     margin-right:10px;
 } 
 .page-06-div p {
-    width:370px;
+    /* width:370px; */
+    width:330px;
 }
 
 .page-06 
@@ -819,8 +822,8 @@ top: 334px;
 .page-06
 {
   position: static;
-width: 340px;
-/* width:370px */
+/* width: 340px; */
+width:330px;
 height: 1700px;
 display: flex;
 flex-direction: column;
