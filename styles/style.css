@@ -657,13 +657,13 @@ background: rgba(255, 255, 255, 0.1);
 
 }
 .container-1-page-2 img{
-    margin-left:80px;
+    margin-left:70px;
 }
 .card-1
 {
     width: 350px;
     height: 350px;
-    margin-left:20px;
+    margin-left:10px;
 }
 .container-1-page-2 h3 
 {
@@ -699,7 +699,7 @@ background: rgba(255, 255, 255, 0.1);
     margin-bottom:18px;
 }
 .sec-2-div{
-width: 350px;
+width: 340px;
 height: 275px;
 left:25px;
 display: flex;
@@ -719,7 +719,7 @@ padding: 0px;
    margin-top:0.1px;
    height:300px;
    width:300px;
-   margin-left:20px;
+   margin-left:10px;
 }
 .page-03 img{
     width:100%;
@@ -757,7 +757,7 @@ height: 772px; */
 .page-05 table
 {
  margin-top:0;
-width: 300px;
+width: 0px;
 height: 20px;
 left: 8px;
 
@@ -824,7 +824,7 @@ height: 1700px;
 display: flex;
 flex-direction: column;
 padding-left:0;
-margin-left:0;
+margin-left:2px;
 
 }
 }
