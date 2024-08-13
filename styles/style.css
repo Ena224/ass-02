@@ -757,10 +757,10 @@ height: 772px; */
 .page-05 table
 {
  margin-top:0;
-width: 0px;
+
 height: 20px;
 left: 8px;
-
+right:2px;
 
 align-items: center;
 
@@ -823,10 +823,11 @@ top: 334px;
 {
   position: static;
 /* width: 340px; */
-width:330px;
+width:300px;
 height: 1700px;
 display: flex;
 flex-direction: column;
+align-items: center;
 padding-left:0;
 margin-left:13px;
 
