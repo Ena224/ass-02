@@ -828,8 +828,8 @@ height: 1700px;
 display: flex;
 flex-direction: column;
 align-items: center;
-padding-left:0;
-margin-left:17px;
 
+margin-left:17px;
+padding-left:10px;
 }
 }
