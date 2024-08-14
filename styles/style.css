@@ -903,7 +903,7 @@ margin-bottom:20px;
 /* footer & last */
 .fot
 {
-    width:347px;
+    width:340px;
     margin-top:10px;
     display: flex;
     flex-direction: column;
@@ -964,9 +964,9 @@ margin-bottom:20px;
 .last hr
 {
     border: 1px solid rgb(95, 95, 95);
-    margin-left:3px;
+    margin-left:10px;
     margin-right:3px;
-    width:310px;
+    width:300px;
 
 }
 }
