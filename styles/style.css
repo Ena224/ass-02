@@ -903,7 +903,7 @@ margin-bottom:20px;
 /* footer & last */
 .fot
 {
-    width:347px;
+    width:350px;
     margin-top:10px;
     display: flex;
     flex-direction: column;
@@ -911,6 +911,7 @@ margin-bottom:20px;
     padding-left:10px;
     padding-bottom:20px;
     background-color: rgb(24, 24, 24);
+    margin-left:10px;
 }
 .fot .fot-h1
 {
