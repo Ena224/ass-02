@@ -341,7 +341,7 @@ cursor: pointer;
  
     padding: 20px;
     height:200px;
-   padding-bottom:50px;
+   padding-bottom:80px;
  
    
   }
@@ -367,7 +367,7 @@ cursor: pointer;
     border-radius: 8px;
     margin-left: 20px;
     box-shadow: 0 0 5px 5px rgba(255, 130, 52, 0.974);
-
+    
     text-align:start;
   }
   .card:hover {
@@ -970,7 +970,7 @@ top: 334px;
 }
 #factor,#sex
 {
-  width:235px;
+  width:232px;
   /* 230 */
 }
 /* ---------------------------------page--06----------------------------------------- */
