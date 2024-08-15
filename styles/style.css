@@ -926,17 +926,13 @@ padding: 0px;
     flex-direction:column-reverse;
     background-color: rgb(27, 27, 27);
      position: absolute;
-     
-/*position: absolute;
-width: 394px;
-height: 772px; */
 
-/* top: 3724px; */
 }
 .page-05-div p 
 {
     width:300px;
-    margin-left:10px;
+    margin-left:15px;
+    /* margin-left:10px */
 }
 .page-05-div h1
 {
@@ -960,7 +956,6 @@ align-items: center;
 }
 .page-05 caption
 {
-    /* width:400px; */
     width:330px;
    
 }
@@ -968,18 +963,15 @@ align-items: center;
 {
     margin-top: 50px;
 position: absolute;
-/* width: 354px; */
 width:330px;
 height: 395px;
 left:20px;
 top: 334px; 
-
-
 }
-#factor
+#factor,#sex
 {
-  width:230px;
-  /* 225 */
+  width:240px;
+  /* 230 */
 }
 /* ---------------------------------page--06----------------------------------------- */
  .page-06-div 
