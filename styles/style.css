@@ -863,7 +863,7 @@ padding: 0px;
 /* -----------page-04------------- */
 .ex{
     margin-top:40px;
-    margin-left:30px;
+    margin-left:15px;
     font-size: 28px;
     margin-bottom:30px;
     text-shadow: 2px 2px 5px rgb(233, 129, 73);
@@ -877,7 +877,6 @@ padding: 0px;
    padding-bottom:900px;
    height:300px;
   width:300px;
-  /* margin-left:10px; */
    
   }
   .card-grid h1
@@ -943,7 +942,7 @@ height: 772px; */
 {
     font-size:40px;
   
-    margin-left:20px;
+    margin-left:0px;
     
     display: flex;
  
