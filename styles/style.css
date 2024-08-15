@@ -327,6 +327,64 @@ margin-left:50px;
 border:2px;
 cursor: pointer;
 }
+/* -----------------------------------------------page-04--------------------------------- */
+.ex{
+    margin-top:40px;
+    margin-left: 48px;
+    font-size: 39px;
+    margin-bottom:30px;
+    text-shadow: 2px 2px 5px rgb(233, 129, 73);
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+ 
+    padding: 20px;
+    height:200px;
+   padding-bottom:50px;
+ 
+   
+  }
+  .card-grid h1
+  {
+    margin-top:10px;
+    font-size:17px;
+    margin-bottom:10px;
+  
+  }
+  .card-grid p
+  {
+    font-size: 13px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    color:rgb(147, 147, 147);
+    font-weight: 500;
+  }
+  .card {
+    background-color: black;
+    padding: 20px;
+    margin-right:20px;
+    border-radius: 8px;
+    margin-left: 20px;
+    box-shadow: 0 0 5px 5px rgba(255, 130, 52, 0.974);
+
+    text-align:start;
+  }
+  .card:hover {
+    box-shadow: 0 0 7px 7px  rgba(255, 123, 70, 0.956); /* Stronger glow on hover */
+  }
+  .new-bt
+  {
+    text-decoration: none;
+    border:none;
+    background-color:black;
+    color: rgba(236, 99, 13, 0.842);
+    cursor: pointer;
+    margin-top:10px;
+  
+    font-weight:700;
+    font-size:14px;
+  }
 /* page-05 */
 .page-05
 {
@@ -748,7 +806,7 @@ background: rgba(255, 255, 255, 0.1);
     width: 330px;
     height: 650px;
     border-radius:20px;
-    margin-left:3px;
+    margin-left:9px;
     margin-right:3px;
     /* margin-left:20px; */
  
@@ -792,7 +850,8 @@ padding: 0px;
    margin-top:0.1px;
    height:300px;
    width:300px;
-   margin-left:10px;
+   margin-left:5px;
+   /* it was 10px */
 }
 .page-03 img{
     width:100%;
