@@ -950,7 +950,7 @@ width: 0px;
 height: 20px;
 left: 8px;
 right: 0px;
-margin-left: 5px;
+
 align-items: center;
 
 }
@@ -961,7 +961,7 @@ align-items: center;
 }
 .page-05 .div-2
 {
-    margin-top: 50px;
+     margin-top: 50px;
 position: absolute;
 width:330px;
 height: 395px;
@@ -970,7 +970,7 @@ top: 334px;
 }
 #factor,#sex
 {
-  width:227px;
+  width:231px;
   /* 230 */
 }
 /* ---------------------------------page--06----------------------------------------- */
